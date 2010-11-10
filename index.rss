@@ -2,6 +2,7 @@
 <title>neingeist's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Stone Mason (Level 7)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Socialite (Level 4)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Miller (Level 5)</title><description>Add only part of a file to the stage 86 times with git add -p.</description></item>
 <item><title>Goldsmith (Level 4)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Stone Mason (Level 4)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Socialite (Level 1)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Author (Level 3)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Stone Mason (Level 3)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 </channel></rss>
