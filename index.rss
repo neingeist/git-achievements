@@ -2,6 +2,7 @@
 <title>neingeist's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Hunter (Level 1)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Master Author (Level 10)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Seamstress (Level 3)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Apprentice Web Designer (Level 3)</title><description>Instantly browse your working repository in gitweb with git instaweb</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Historian (Level 5)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Collector (Level 1)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Apprentice Carpenter (Level 1)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 </channel></rss>
