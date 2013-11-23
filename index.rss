@@ -2,24 +2,5 @@
 <title>neingeist's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Apprentice Investigator (Level 2)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
-<item><title>Goldsmith (Level 6)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Master Miller (Level 9)</title><description>Add only part of a file to the stage 1154 times with git add -p.</description></item>
-<item><title>Apprentice Banker (Level 3)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Gipsy (Level 4)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
-<item><title>Seamstress (Level 4)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Master Socialite (Level 9)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Gipsy (Level 3)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
-<item><title>Master Stone Mason (Level 10)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Hunter (Level 2)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
-<item><title>Apprentice Hunter (Level 1)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
-<item><title>Master Author (Level 10)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Seamstress (Level 3)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Apprentice Web Designer (Level 3)</title><description>Instantly browse your working repository in gitweb with git instaweb</description></item>
-<item><title>Apprentice Web Designer (Level 2)</title><description>Instantly browse your working repository in gitweb with git instaweb</description></item>
-<item><title>Apprentice Web Designer (Level 1)</title><description>Instantly browse your working repository in gitweb with git instaweb</description></item>
-<item><title>Master Miller (Level 8)</title><description>Add only part of a file to the stage 733 times with git add -p.</description></item>
-<item><title>Apprentice Product Manager (Level 2)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Apprentice Product Manager (Level 1)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
+<item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
