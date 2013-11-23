@@ -2,13 +2,24 @@
 <title>neingeist's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Apprentice Author (Level 3)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
+<item><title>Master Author (Level 10)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Apprentice Seamstress (Level 3)</title><description>amended a commit with git commit --amend.</description></item>
+<item><title>Apprentice Web Designer (Level 3)</title><description>Instantly browse your working repository in gitweb with git instaweb</description></item>
+<item><title>Apprentice Web Designer (Level 2)</title><description>Instantly browse your working repository in gitweb with git instaweb</description></item>
+<item><title>Apprentice Web Designer (Level 1)</title><description>Instantly browse your working repository in gitweb with git instaweb</description></item>
+<item><title>Master Miller (Level 8)</title><description>Add only part of a file to the stage 733 times with git add -p.</description></item>
+<item><title>Apprentice Product Manager (Level 2)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
+<item><title>Apprentice Product Manager (Level 1)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
+<item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
+<item><title>Apprentice Banker (Level 2)</title><description>Join two or more development histories together with git merge.</description></item>
+<item><title>Goldsmith (Level 5)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
+<item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Apprentice Seamstress (Level 2)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Stone Mason (Level 4)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Historian (Level 2)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Historian (Level 1)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Socialite (Level 2)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
 <item><title>Apprentice Socialite (Level 1)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Author (Level 2)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
