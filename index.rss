@@ -2,6 +2,7 @@
 <title>neingeist's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Master Historian (Level 8)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Product Manager (Level 5)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Architect (Level 6)</title><description>Created a new repository with git init.</description></item>
 <item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
-<item><title>Master Author (Level 10)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
