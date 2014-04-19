@@ -2,6 +2,7 @@
 <title>neingeist's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Stone Mason (Level 11)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Butcher (Level 1)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Master Historian (Level 8)</title><description>Investigate the commit log using git log.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Homeowner</title><description>Set global email address using git config.</description></item>
 <item><title>Baptised</title><description>Set global user name using git config.</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
-<item><title>Architect (Level 6)</title><description>Created a new repository with git init.</description></item>
 </channel></rss>
