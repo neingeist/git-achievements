@@ -2,6 +2,7 @@
 <title>neingeist's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Author (Level 11)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Master Miller (Level 10)</title><description>Add only part of a file to the stage 2253 times with git add -p.</description></item>
 <item><title>Apprentice Collector (Level 3)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Apprentice Investigator (Level 3)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Gipsy (Level 6)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Apprentice Hunter (Level 3)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Dentist</title><description>Extracted patches using git log -p.</description></item>
-<item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
 </channel></rss>
